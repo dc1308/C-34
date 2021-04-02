@@ -25,5 +25,5 @@ class Ball {
       ellipse(0, 0, this.r, this.r);
       pop();
     };
-  };
+  }
   
